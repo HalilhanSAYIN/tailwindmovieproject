@@ -1,1 +1,1 @@
-[GIGA MOVIE]([http://www.example.com](https://main--gigamovie.netlify.app/))
+[GIGA MOVIE >>>](https://main--gigamovie.netlify.app/)
